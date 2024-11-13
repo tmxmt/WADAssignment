@@ -53,7 +53,7 @@ Updates the module that a student is enrolled in based on student admin number a
   enrollment: [],
 ```
 
-##Explanation
+## Explanation
 
 ## addCourse
 
