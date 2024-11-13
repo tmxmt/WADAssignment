@@ -106,7 +106,6 @@ enrollStudent(AdminNo, courseCode, courseName)
 
 ### Explanation
 - Enrolls a student inside a course by student Admin Number.
-- `return`:
 
 ```js
 {
