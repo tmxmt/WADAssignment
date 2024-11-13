@@ -205,5 +205,5 @@ updateStudentEnrollment(adminNo, oldModuleCode, newModuleCode, oldModuleName, Ne
 
 # References
 
-https://www.w3schools.com/js/js_loop_for.asp
-https://www.w3schools.com/js/js_loop_for.asp
+- https://www.w3schools.com/js/js_loop_for.asp
+- https://www.w3schools.com/js/js_loop_for.asp
