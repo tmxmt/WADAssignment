@@ -7,10 +7,10 @@ This module is a node.js program that helps to enroll students inside a module i
 
 ## Table of Contents
 
-1. [Features](#features)
-2. [Setup](#setup)
-3. [Usage](#usage)
-4. [References](#references)
+1. [Features](#Functions)
+2. [Data](#Data)
+3. [Explanation](#Explanation)
+4. [References](#References)
 
 ## Functions
 
@@ -52,6 +52,8 @@ Updates the module that a student is enrolled in based on student admin number a
   courses: [], //Empty arrays to store info
   enrollment: [],
 ```
+
+##Explanation
 
 ## addCourse
 
